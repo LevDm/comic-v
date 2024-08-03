@@ -1,0 +1,8 @@
+{
+    "name": "comic-v",
+    "version": "1.0.0",
+    "scripts": {
+        "frontend:i": "cd packages/frontend && npm i",
+        "frontend:dev": "cd packages/frontend && npm run dev"
+    }
+}

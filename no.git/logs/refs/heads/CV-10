@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 75e2d89ee93783d01df3f5e8869d051679ccc3b7 LevDm <new email> 1709492726 +0500	branch: Created from HEAD
+75e2d89ee93783d01df3f5e8869d051679ccc3b7 91cfa4fce383af9d109ffcd29858d8542fd61a47 LevDm <new email> 1709497631 +0500	commit: feat(project): init frontend
+91cfa4fce383af9d109ffcd29858d8542fd61a47 d62dcdfb7d2950e7308d92cbc0f10fb5e05c5d3a LevDm <new email> 1709536484 +0500	commit: feat(frontend): prettier & eslint
+d62dcdfb7d2950e7308d92cbc0f10fb5e05c5d3a d6d11fc0c46ac89ae529d276b464ab68a954e0ed LevDm <new email> 1709538501 +0500	commit: feat(frontend): библиотеки
+d6d11fc0c46ac89ae529d276b464ab68a954e0ed 54e0626b32dbf745589aaeeaab07e5b1905a8459 LevDm <new email> 1709541752 +0500	commit: feat(frontend): mui app-theme
+54e0626b32dbf745589aaeeaab07e5b1905a8459 a84af8d97390ef37b7b1cd969bfbb9db4cfe821c LevDm <new email> 1709541823 +0500	commit: refactor(frontend): неиспользуемый импорт
+a84af8d97390ef37b7b1cd969bfbb9db4cfe821c e70fc163ffbc2ce997236352bcf17f452103fb9b LevDm <new email> 1709542093 +0500	commit: fix(frontend): расширение файла
+e70fc163ffbc2ce997236352bcf17f452103fb9b 458e3a128a3bf219c58b343bd411c05b48fb8626 LevDm <new email> 1709548398 +0500	commit: feat(frontend): уведомления
+458e3a128a3bf219c58b343bd411c05b48fb8626 4d522e7ea550d6129a8b7e895ef6962e92d8a870 LevDm <new email> 1709707683 +0500	commit: feat(frontend): базовая структура приложения с авторизацией

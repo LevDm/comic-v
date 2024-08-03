@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 7b7f256ccaf55fcac74b087f5df9834be4ce0c6c LevDm <new email> 1715622813 +0500	branch: Created from HEAD
+7b7f256ccaf55fcac74b087f5df9834be4ce0c6c 402bb680830f14ad1d9573cf7e289829a91ca821 LevDm <new email> 1715630119 +0500	commit: feat(frontend): водяной знак, дизайн-детали
+402bb680830f14ad1d9573cf7e289829a91ca821 5483f835ee4b74801c4af7fabfcf07966269882c LevDm <new email> 1715631941 +0500	commit: feat(frontend): визуальное соответсвие формата
+5483f835ee4b74801c4af7fabfcf07966269882c 8916ec48ed635f856ca73d2b005367b6f04a0e88 LevDm <new email> 1715634544 +0500	commit: fix(frontend): лого
+8916ec48ed635f856ca73d2b005367b6f04a0e88 a1b618deb8ff88e43d282d398d261c7a418104d8 LevDm <new email> 1715634667 +0500	commit: fix(frontend): не черный фон

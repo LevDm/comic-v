@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 70029e45d0b25802234078aaaaafb104d48d82b7 LevDm <new email> 1711776776 +0500	branch: Created from HEAD
+70029e45d0b25802234078aaaaafb104d48d82b7 589781acbaa22b31d5900722df3fe884cb77562f LevDm <new email> 1711993328 +0500	commit: refactor(frontent): детали обьединения веток
+589781acbaa22b31d5900722df3fe884cb77562f 1335152d51f9d497932223019d647bc69cb1dea6 LevDm <new email> 1711993906 +0500	rebase (continue) (finish): refs/heads/refactor onto 16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0
+1335152d51f9d497932223019d647bc69cb1dea6 8af87cd2875c4e59d96daa913669684c25590950 LevDm <new email> 1711993936 +0500	commit (merge): Merge branch 'refactor' of https://bitbucket.org/comic-v/comic-v into refactor
+8af87cd2875c4e59d96daa913669684c25590950 0c4a0f4b05f09e5a7b7d54a23f8d365758c8020a LevDm <new email> 1711999290 +0500	commit: fix(frontend): объединение комопнентов
+0c4a0f4b05f09e5a7b7d54a23f8d365758c8020a d1f78c1e765af7b91fa608e689c12d5a4d0a23fa LevDm <new email> 1712001021 +0500	cherry-pick: fix(frontend): верстка элементов

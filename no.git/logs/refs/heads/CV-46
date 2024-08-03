@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 3493ab8e548f8e5ac5bbe1eaf1ce121463c25e83 LevDm <new email> 1711111841 +0500	branch: Created from refs/remotes/origin/CV-46
+3493ab8e548f8e5ac5bbe1eaf1ce121463c25e83 2757c680ab536b4f187ba0c905c34ef6084633d6 LevDm <new email> 1711192481 +0500	commit: fix(frontend): панель навигации
+2757c680ab536b4f187ba0c905c34ef6084633d6 f21cbbb2369ab44db1222c5bd9d30d1ad3cc9edf LevDm <new email> 1711194437 +0500	commit: feat(frontend): кнопка для полноэкранного режима
+f21cbbb2369ab44db1222c5bd9d30d1ad3cc9edf fa5c9d825d0bf2f02d921cfa159a5990a2db49e5 LevDm <new email> 1711195071 +0500	commit: refactor(frontend): файлы компонента навигации
+fa5c9d825d0bf2f02d921cfa159a5990a2db49e5 51f8c3c04ac46f808435b5936017cf8e83b464bd LevDm <new email> 1711771786 +0500	rebase (continue) (finish): refs/heads/CV-46 onto 54ad4aa62ca2717ab76ae3cddfaf6c7408faa737
+51f8c3c04ac46f808435b5936017cf8e83b464bd eaf210be2de23a7cdac3b27eab8c2d471b9db40c LevDm <new email> 1711772032 +0500	commit (merge): Merge branch 'CV-46' of https://bitbucket.org/comic-v/comic-v into CV-46

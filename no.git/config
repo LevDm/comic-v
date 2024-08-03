@@ -1,0 +1,98 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://LevDmi@bitbucket.org/comic-v/comic-v.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "CV-10"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-10
+[branch "CV-41(v0)"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-41
+[branch "CV-20"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-20
+[branch "fix"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/fix
+[branch "CV-53"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-53
+[branch "CV-54"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-54
+[branch "Treglazov"]
+	remote = origin
+	merge = refs/heads/Treglazov
+[branch "CV-46"]
+	remote = origin
+	merge = refs/heads/CV-46
+[branch "CV-7"]
+	remote = origin
+	merge = refs/heads/CV-7
+[branch "CV-59"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-59
+[branch "refactor"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/refactor
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+[branch "CV-feat"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-feat
+[branch "CV-24"]
+	remote = origin
+	merge = refs/heads/CV-24
+[branch "CV-00"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-00
+[branch "CV-73"]
+	remote = origin
+	merge = refs/heads/CV-73
+[branch "CV-00.2"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-00.2
+[branch "CV-00.3"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-00.3
+[branch "CV-80"]
+	remote = origin
+	merge = refs/heads/CV-80
+[branch "CV-00.4"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-00.4
+[branch "CV-00.5"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-00.5
+[branch "CV-00.6"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-00.6
+[branch "CV-00.7"]
+	vscode-merge-base = origin/dev
+	remote = origin
+	merge = refs/heads/CV-00.7

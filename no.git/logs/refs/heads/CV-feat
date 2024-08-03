@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 4b700b00191358f7f789832d6e0e22dadd90288b LevDm <new email> 1712084468 +0500	branch: Created from HEAD
+4b700b00191358f7f789832d6e0e22dadd90288b 068d0485bdbe5467093bc1551efa574cdc2d7340 LevDm <new email> 1712268308 +0500	commit: feat(frontent): группировка компонентов и разметка страницы проектов
+068d0485bdbe5467093bc1551efa574cdc2d7340 26fe33fa6e1e9056dfbf733076867507a68b60c1 LevDm <new email> 1713476340 +0500	commit: feat(frontend): наброски всех основных элементов
+26fe33fa6e1e9056dfbf733076867507a68b60c1 26fe33fa6e1e9056dfbf733076867507a68b60c1 LevDm <new email> 1713476365 +0500	Branch: renamed refs/heads/feat to refs/heads/CV-feat
+26fe33fa6e1e9056dfbf733076867507a68b60c1 89d89a85090130d0b0a6aa54dcd09675f866dcf8 LevDm <new email> 1713815109 +0500	commit: feat(frontend): дизайн логотипа
+89d89a85090130d0b0a6aa54dcd09675f866dcf8 f43792c16f84e5c8582024bb54ee9edbd9b59a91 LevDm <new email> 1714684450 +0500	commit: feat(frontend): контроллер
+f43792c16f84e5c8582024bb54ee9edbd9b59a91 26345d8ac1748db55fe14211323ef71de7c60197 LevDm <new email> 1714685300 +0500	pull origin dev --rebase (finish): refs/heads/CV-feat onto 774707712de553940815b94157e5af12405f8493
+26345d8ac1748db55fe14211323ef71de7c60197 ff629f6b92b61b8ee3a1fa4c4ea133e10a06fa8e LevDm <new email> 1714685634 +0500	pull --tags origin CV-feat: Merge made by the 'ort' strategy.
+ff629f6b92b61b8ee3a1fa4c4ea133e10a06fa8e 636e360788f58f63fa7ed79695cb433b7437d27f LevDm <new email> 1714687466 +0500	commit: _(backend): закоментил строчки
+636e360788f58f63fa7ed79695cb433b7437d27f 671f45153465c7334bd778f06b8c486bf51cb2dd LevDm <new email> 1714691760 +0500	commit: feat(frontend): запросы тема-тезисы и текс-картинка
+671f45153465c7334bd778f06b8c486bf51cb2dd 630c4d8a4fedc2d8fca1c937efc3ece7506f8942 LevDm <new email> 1715552366 +0500	commit: feat(frontend): детальная логика контроллеров

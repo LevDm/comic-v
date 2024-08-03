@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711223108 +0500	branch: Created from HEAD
+8dda43cc31566461cec545bdb732c90c9092940e 863acd5a20e3397d750635859d7b3521aeef72eb LevDm <new email> 1711311736 +0500	commit: feat(frontend): заготовка компонента выбора фото
+863acd5a20e3397d750635859d7b3521aeef72eb af026f7bb9c157de8be762493c2598f59ecfa6ad LevDm <new email> 1711395345 +0500	commit: feat(frontend): fake-images для компонента
+af026f7bb9c157de8be762493c2598f59ecfa6ad 212507c9ef757a7f6af7c71d909977b777da4008 LevDm <new email> 1711572540 +0500	commit: refactor(frontend): разбивка элементов по файлы
+212507c9ef757a7f6af7c71d909977b777da4008 0eaf487971a7e66cb5f5da4bbf9387a246dba04c LevDm <new email> 1711572636 +0500	commit: refactor(frontend): откл. компонента
+0eaf487971a7e66cb5f5da4bbf9387a246dba04c 99c1ef2ceb1f341ee05c4def17c3c68119c9bb5f LevDm <new email> 1711776391 +0500	rebase (continue) (finish): refs/heads/CV-59 onto 7726907c668cb326700158be8ac5763eadcb3a75
+99c1ef2ceb1f341ee05c4def17c3c68119c9bb5f 026a035fe1714956caf69df0fead5827fc1d1a4f LevDm <new email> 1711776562 +0500	commit (merge): Merge branch 'CV-59' of https://bitbucket.org/comic-v/comic-v into CV-59

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 54c9c9085d188e5a8f6026a9a23f13a90336dde9 LevDm <new email> 1710311848 +0500	branch: Created from HEAD
+54c9c9085d188e5a8f6026a9a23f13a90336dde9 f148bf5597b6a6e67651138771b27c064bdf03f6 LevDm <new email> 1710354376 +0500	commit: feat(frontent): заготовка авторизации
+f148bf5597b6a6e67651138771b27c064bdf03f6 a39ec7dd87ccd8e52665d9c496202a578571a24d LevDm <new email> 1710492811 +0500	commit: refactor(frontend): типы в авторизации
+a39ec7dd87ccd8e52665d9c496202a578571a24d a764e18d34cc14476e486d84eb5f5cfaaa273df2 LevDm <new email> 1710493389 +0500	commit: fix(frontend): удаление гугл-авторизации
+a764e18d34cc14476e486d84eb5f5cfaaa273df2 9acb6a2db92014f9fd0fa04dd18e3b8909fac8e8 LevDm <new email> 1710494973 +0500	commit: feat(frontend): выход со стр. авторизации
+9acb6a2db92014f9fd0fa04dd18e3b8909fac8e8 857a756cb7a008ae824afa61691acb573369a5ca LevDm <new email> 1710499958 +0500	commit: fix(frontent): выход со стр. авторизации
+857a756cb7a008ae824afa61691acb573369a5ca c8a72d9048d8dc81ea735d231232122ced5c4c1b LevDm <new email> 1711993487 +0500	rebase (continue) (finish): refs/heads/CV-41 onto 70029e45d0b25802234078aaaaafb104d48d82b7
+c8a72d9048d8dc81ea735d231232122ced5c4c1b d9b0cd2a9746f9fb0bbc80351e81fd67ee9c02ab LevDm <new email> 1711993513 +0500	commit (merge): Merge branch 'CV-41' of https://bitbucket.org/comic-v/comic-v into CV-41
+d9b0cd2a9746f9fb0bbc80351e81fd67ee9c02ab d9b0cd2a9746f9fb0bbc80351e81fd67ee9c02ab LevDm <new email> 1711993580 +0500	Branch: renamed refs/heads/CV-41 to refs/heads/CV-41(v0)

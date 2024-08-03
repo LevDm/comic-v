@@ -1,0 +1,290 @@
+0000000000000000000000000000000000000000 75e2d89ee93783d01df3f5e8869d051679ccc3b7 LevDm <new email> 1709491626 +0500	clone: from https://bitbucket.org/comic-v/comic-v.git
+75e2d89ee93783d01df3f5e8869d051679ccc3b7 75e2d89ee93783d01df3f5e8869d051679ccc3b7 LevDm <new email> 1709491792 +0500	checkout: moving from master to dev
+75e2d89ee93783d01df3f5e8869d051679ccc3b7 75e2d89ee93783d01df3f5e8869d051679ccc3b7 LevDm <new email> 1709492726 +0500	checkout: moving from dev to CV-10
+75e2d89ee93783d01df3f5e8869d051679ccc3b7 91cfa4fce383af9d109ffcd29858d8542fd61a47 LevDm <new email> 1709497631 +0500	commit: feat(project): init frontend
+91cfa4fce383af9d109ffcd29858d8542fd61a47 d62dcdfb7d2950e7308d92cbc0f10fb5e05c5d3a LevDm <new email> 1709536484 +0500	commit: feat(frontend): prettier & eslint
+d62dcdfb7d2950e7308d92cbc0f10fb5e05c5d3a d6d11fc0c46ac89ae529d276b464ab68a954e0ed LevDm <new email> 1709538501 +0500	commit: feat(frontend): библиотеки
+d6d11fc0c46ac89ae529d276b464ab68a954e0ed 54e0626b32dbf745589aaeeaab07e5b1905a8459 LevDm <new email> 1709541752 +0500	commit: feat(frontend): mui app-theme
+54e0626b32dbf745589aaeeaab07e5b1905a8459 a84af8d97390ef37b7b1cd969bfbb9db4cfe821c LevDm <new email> 1709541823 +0500	commit: refactor(frontend): неиспользуемый импорт
+a84af8d97390ef37b7b1cd969bfbb9db4cfe821c e70fc163ffbc2ce997236352bcf17f452103fb9b LevDm <new email> 1709542093 +0500	commit: fix(frontend): расширение файла
+e70fc163ffbc2ce997236352bcf17f452103fb9b 458e3a128a3bf219c58b343bd411c05b48fb8626 LevDm <new email> 1709548398 +0500	commit: feat(frontend): уведомления
+458e3a128a3bf219c58b343bd411c05b48fb8626 4d522e7ea550d6129a8b7e895ef6962e92d8a870 LevDm <new email> 1709707683 +0500	commit: feat(frontend): базовая структура приложения с авторизацией
+4d522e7ea550d6129a8b7e895ef6962e92d8a870 75e2d89ee93783d01df3f5e8869d051679ccc3b7 LevDm <new email> 1710311581 +0500	checkout: moving from CV-10 to dev
+75e2d89ee93783d01df3f5e8869d051679ccc3b7 54c9c9085d188e5a8f6026a9a23f13a90336dde9 LevDm <new email> 1710311615 +0500	pull: Fast-forward
+54c9c9085d188e5a8f6026a9a23f13a90336dde9 54c9c9085d188e5a8f6026a9a23f13a90336dde9 LevDm <new email> 1710311848 +0500	checkout: moving from dev to CV-41
+54c9c9085d188e5a8f6026a9a23f13a90336dde9 f148bf5597b6a6e67651138771b27c064bdf03f6 LevDm <new email> 1710354376 +0500	commit: feat(frontent): заготовка авторизации
+f148bf5597b6a6e67651138771b27c064bdf03f6 54c9c9085d188e5a8f6026a9a23f13a90336dde9 LevDm <new email> 1710354800 +0500	checkout: moving from CV-41 to dev
+54c9c9085d188e5a8f6026a9a23f13a90336dde9 b6b0d35374e2f95a15e9092d8aabf44aed792443 LevDm <new email> 1710354812 +0500	pull: Fast-forward
+b6b0d35374e2f95a15e9092d8aabf44aed792443 b6b0d35374e2f95a15e9092d8aabf44aed792443 LevDm <new email> 1710355621 +0500	checkout: moving from dev to CV-20
+b6b0d35374e2f95a15e9092d8aabf44aed792443 64b0dec2c7ff38a9eaf69151501c940f1faa11ff LevDm <new email> 1710358795 +0500	commit: feat(frontend): тест кандинского
+64b0dec2c7ff38a9eaf69151501c940f1faa11ff f148bf5597b6a6e67651138771b27c064bdf03f6 LevDm <new email> 1710419201 +0500	checkout: moving from CV-20 to CV-41
+f148bf5597b6a6e67651138771b27c064bdf03f6 a39ec7dd87ccd8e52665d9c496202a578571a24d LevDm <new email> 1710492811 +0500	commit: refactor(frontend): типы в авторизации
+a39ec7dd87ccd8e52665d9c496202a578571a24d a764e18d34cc14476e486d84eb5f5cfaaa273df2 LevDm <new email> 1710493389 +0500	commit: fix(frontend): удаление гугл-авторизации
+a764e18d34cc14476e486d84eb5f5cfaaa273df2 9acb6a2db92014f9fd0fa04dd18e3b8909fac8e8 LevDm <new email> 1710494973 +0500	commit: feat(frontend): выход со стр. авторизации
+9acb6a2db92014f9fd0fa04dd18e3b8909fac8e8 857a756cb7a008ae824afa61691acb573369a5ca LevDm <new email> 1710499958 +0500	commit: fix(frontent): выход со стр. авторизации
+857a756cb7a008ae824afa61691acb573369a5ca 64b0dec2c7ff38a9eaf69151501c940f1faa11ff LevDm <new email> 1710754935 +0500	checkout: moving from CV-41 to CV-20
+64b0dec2c7ff38a9eaf69151501c940f1faa11ff b6b0d35374e2f95a15e9092d8aabf44aed792443 LevDm <new email> 1711033927 +0500	checkout: moving from CV-20 to dev
+b6b0d35374e2f95a15e9092d8aabf44aed792443 75c4324f45a9be8f1036a67e1543866afd8547cf LevDm <new email> 1711033941 +0500	pull: Fast-forward
+75c4324f45a9be8f1036a67e1543866afd8547cf 3e0339c975b84e4562567822907e591eaf7f6479 LevDm <new email> 1711034603 +0500	commit: fix(frontend): настройки ESlint
+3e0339c975b84e4562567822907e591eaf7f6479 3e0339c975b84e4562567822907e591eaf7f6479 LevDm <new email> 1711034820 +0500	reset: moving to HEAD
+3e0339c975b84e4562567822907e591eaf7f6479 75c4324f45a9be8f1036a67e1543866afd8547cf LevDm <new email> 1711034953 +0500	reset: moving to HEAD~
+75c4324f45a9be8f1036a67e1543866afd8547cf 75c4324f45a9be8f1036a67e1543866afd8547cf LevDm <new email> 1711035142 +0500	checkout: moving from dev to fix
+75c4324f45a9be8f1036a67e1543866afd8547cf 821e56b2c2cbd235c8783acb5b2777506e8d6907 LevDm <new email> 1711035231 +0500	commit: fix(frontend): настройки ESlint
+821e56b2c2cbd235c8783acb5b2777506e8d6907 75c4324f45a9be8f1036a67e1543866afd8547cf LevDm <new email> 1711035850 +0500	checkout: moving from fix to dev
+75c4324f45a9be8f1036a67e1543866afd8547cf 75c4324f45a9be8f1036a67e1543866afd8547cf LevDm <new email> 1711035864 +0500	checkout: moving from dev to dev
+75c4324f45a9be8f1036a67e1543866afd8547cf 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711035889 +0500	pull: Fast-forward
+8dda43cc31566461cec545bdb732c90c9092940e 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711037525 +0500	checkout: moving from dev to CV-53
+8dda43cc31566461cec545bdb732c90c9092940e 56cee3be3365e8c26ab6cae450c2132e1b9d4981 LevDm <new email> 1711046291 +0500	commit: feat(frontend): заготовка компонента предпросмотра
+56cee3be3365e8c26ab6cae450c2132e1b9d4981 55fdebf3cb69268223df0aeecb8776a777e5d4c6 LevDm <new email> 1711102030 +0500	commit: feat(frontend): заготовка компонента просмотра комикса
+55fdebf3cb69268223df0aeecb8776a777e5d4c6 4df433d5dda0f2d5edc0acd6369cfadbad5282bf LevDm <new email> 1711102369 +0500	commit: refactor(frontend): отдельный файл для fakedata
+4df433d5dda0f2d5edc0acd6369cfadbad5282bf 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711103274 +0500	checkout: moving from CV-53 to dev
+8dda43cc31566461cec545bdb732c90c9092940e 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711103278 +0500	checkout: moving from dev to CV-54
+8dda43cc31566461cec545bdb732c90c9092940e 8166cf3a84afcf21d6c3b113179d07f34e6e33db LevDm <new email> 1711103717 +0500	commit: feat(frontend): стилизатор фона
+8166cf3a84afcf21d6c3b113179d07f34e6e33db 5cf4f9fc8ebc3178ca5c32374eecc1e779576560 LevDm <new email> 1711104216 +0500	commit: fix(frontend): настройки темы
+5cf4f9fc8ebc3178ca5c32374eecc1e779576560 4df433d5dda0f2d5edc0acd6369cfadbad5282bf LevDm <new email> 1711104288 +0500	checkout: moving from CV-54 to CV-53
+4df433d5dda0f2d5edc0acd6369cfadbad5282bf 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711104806 +0500	checkout: moving from CV-53 to dev
+8dda43cc31566461cec545bdb732c90c9092940e 8d68f03b829afd820666431513429e59c6545058 LevDm <new email> 1711104835 +0500	checkout: moving from dev to Treglazov
+8d68f03b829afd820666431513429e59c6545058 8d68f03b829afd820666431513429e59c6545058 LevDm <new email> 1711104869 +0500	checkout: moving from Treglazov to CV-23
+8d68f03b829afd820666431513429e59c6545058 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711111820 +0500	checkout: moving from CV-23 to dev
+8dda43cc31566461cec545bdb732c90c9092940e 3493ab8e548f8e5ac5bbe1eaf1ce121463c25e83 LevDm <new email> 1711111841 +0500	checkout: moving from dev to CV-46
+3493ab8e548f8e5ac5bbe1eaf1ce121463c25e83 2757c680ab536b4f187ba0c905c34ef6084633d6 LevDm <new email> 1711192481 +0500	commit: fix(frontend): панель навигации
+2757c680ab536b4f187ba0c905c34ef6084633d6 f21cbbb2369ab44db1222c5bd9d30d1ad3cc9edf LevDm <new email> 1711194437 +0500	commit: feat(frontend): кнопка для полноэкранного режима
+f21cbbb2369ab44db1222c5bd9d30d1ad3cc9edf fa5c9d825d0bf2f02d921cfa159a5990a2db49e5 LevDm <new email> 1711195071 +0500	commit: refactor(frontend): файлы компонента навигации
+fa5c9d825d0bf2f02d921cfa159a5990a2db49e5 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711195414 +0500	checkout: moving from CV-46 to dev
+8dda43cc31566461cec545bdb732c90c9092940e 4df433d5dda0f2d5edc0acd6369cfadbad5282bf LevDm <new email> 1711195420 +0500	checkout: moving from dev to CV-53
+4df433d5dda0f2d5edc0acd6369cfadbad5282bf e5a25ceaa45fa007515639f596da831f54c78b53 LevDm <new email> 1711195532 +0500	commit: refactor(frontend): использование компонента
+e5a25ceaa45fa007515639f596da831f54c78b53 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711201678 +0500	checkout: moving from CV-53 to dev
+8dda43cc31566461cec545bdb732c90c9092940e 96ded9ac195983a3cb97ceb39c88008149994583 LevDm <new email> 1711201706 +0500	checkout: moving from dev to CV-7
+96ded9ac195983a3cb97ceb39c88008149994583 d99240b09729dc27debde1f8f30f63a7891193ea LevDm <new email> 1711201912 +0500	pull: Fast-forward
+d99240b09729dc27debde1f8f30f63a7891193ea 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711223069 +0500	checkout: moving from CV-7 to dev
+8dda43cc31566461cec545bdb732c90c9092940e 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711223108 +0500	checkout: moving from dev to CV-59
+8dda43cc31566461cec545bdb732c90c9092940e 863acd5a20e3397d750635859d7b3521aeef72eb LevDm <new email> 1711311736 +0500	commit: feat(frontend): заготовка компонента выбора фото
+863acd5a20e3397d750635859d7b3521aeef72eb af026f7bb9c157de8be762493c2598f59ecfa6ad LevDm <new email> 1711395345 +0500	commit: feat(frontend): fake-images для компонента
+af026f7bb9c157de8be762493c2598f59ecfa6ad 212507c9ef757a7f6af7c71d909977b777da4008 LevDm <new email> 1711572540 +0500	commit: refactor(frontend): разбивка элементов по файлы
+212507c9ef757a7f6af7c71d909977b777da4008 0eaf487971a7e66cb5f5da4bbf9387a246dba04c LevDm <new email> 1711572636 +0500	commit: refactor(frontend): откл. компонента
+0eaf487971a7e66cb5f5da4bbf9387a246dba04c 8dda43cc31566461cec545bdb732c90c9092940e LevDm <new email> 1711769039 +0500	checkout: moving from CV-59 to dev
+8dda43cc31566461cec545bdb732c90c9092940e 54ad4aa62ca2717ab76ae3cddfaf6c7408faa737 LevDm <new email> 1711771417 +0500	pull: Fast-forward
+54ad4aa62ca2717ab76ae3cddfaf6c7408faa737 fa5c9d825d0bf2f02d921cfa159a5990a2db49e5 LevDm <new email> 1711771566 +0500	checkout: moving from dev to CV-46
+fa5c9d825d0bf2f02d921cfa159a5990a2db49e5 54ad4aa62ca2717ab76ae3cddfaf6c7408faa737 LevDm <new email> 1711771583 +0500	rebase (start): checkout dev
+54ad4aa62ca2717ab76ae3cddfaf6c7408faa737 dfee0fce9c41fbb2389c0d6d444b3718b0335397 LevDm <new email> 1711771583 +0500	rebase (pick): feat(frontend): Путь к странице конструктора
+dfee0fce9c41fbb2389c0d6d444b3718b0335397 6b9d2047749142406273b92c4a5059bbdcb70520 LevDm <new email> 1711771583 +0500	rebase (pick): feat(frontend): Поддержка импорта svg файлов
+6b9d2047749142406273b92c4a5059bbdcb70520 aa125bb844af0c82dc64a2af82c7ceee88f1ac3a LevDm <new email> 1711771583 +0500	rebase (pick): feat(frontend): Svg логотип
+aa125bb844af0c82dc64a2af82c7ceee88f1ac3a 0961229ede2886ee94598d7a4857a403d7f4e6c2 LevDm <new email> 1711771667 +0500	rebase (continue): feat(frontend): Header сайта
+0961229ede2886ee94598d7a4857a403d7f4e6c2 19bfd584849302879b5b607db78aa6aac942e3cb LevDm <new email> 1711771785 +0500	rebase (continue): fix(frontend): панель навигации
+19bfd584849302879b5b607db78aa6aac942e3cb c628f0b5d0bd9d9f3b0da9d8ec695aaab31d9169 LevDm <new email> 1711771785 +0500	rebase (continue) (pick): feat(frontend): кнопка для полноэкранного режима
+c628f0b5d0bd9d9f3b0da9d8ec695aaab31d9169 51f8c3c04ac46f808435b5936017cf8e83b464bd LevDm <new email> 1711771786 +0500	rebase (continue) (pick): refactor(frontend): файлы компонента навигации
+51f8c3c04ac46f808435b5936017cf8e83b464bd 51f8c3c04ac46f808435b5936017cf8e83b464bd LevDm <new email> 1711771786 +0500	rebase (continue) (finish): returning to refs/heads/CV-46
+51f8c3c04ac46f808435b5936017cf8e83b464bd eaf210be2de23a7cdac3b27eab8c2d471b9db40c LevDm <new email> 1711772032 +0500	commit (merge): Merge branch 'CV-46' of https://bitbucket.org/comic-v/comic-v into CV-46
+eaf210be2de23a7cdac3b27eab8c2d471b9db40c 54ad4aa62ca2717ab76ae3cddfaf6c7408faa737 LevDm <new email> 1711772428 +0500	checkout: moving from CV-46 to dev
+54ad4aa62ca2717ab76ae3cddfaf6c7408faa737 60b351dc2c099b68180db9b292b24a05160f1c1b LevDm <new email> 1711772654 +0500	pull: Fast-forward
+60b351dc2c099b68180db9b292b24a05160f1c1b e5a25ceaa45fa007515639f596da831f54c78b53 LevDm <new email> 1711773007 +0500	checkout: moving from dev to CV-53
+e5a25ceaa45fa007515639f596da831f54c78b53 4d522e7ea550d6129a8b7e895ef6962e92d8a870 LevDm <new email> 1711773564 +0500	rebase (start): checkout origin
+4d522e7ea550d6129a8b7e895ef6962e92d8a870 c0fc837c85b105b50167ed275f59a8b63314530b LevDm <new email> 1711773564 +0500	rebase (pick): feat(project): readme для фронтенда
+c0fc837c85b105b50167ed275f59a8b63314530b 8070718b9d4ea8cb612d34d0fccd6be558ea6064 LevDm <new email> 1711773564 +0500	rebase (pick): feat(backend): Развернута базовая структура
+8070718b9d4ea8cb612d34d0fccd6be558ea6064 b8c6384b2f865bf025b819a985de2cc78d995df6 LevDm <new email> 1711773564 +0500	rebase (pick): feat(project): Запуск проекта
+b8c6384b2f865bf025b819a985de2cc78d995df6 89bf28e7d7109e272da96acc1d74f6ef660ddaf0 LevDm <new email> 1711773564 +0500	rebase (pick): feat(project): Обновление README.md
+89bf28e7d7109e272da96acc1d74f6ef660ddaf0 46a9dc1cb96b3779db7149eb5bb76fdca7c5e809 LevDm <new email> 1711773564 +0500	rebase (pick): fix(project): Изменение размера изображения
+46a9dc1cb96b3779db7149eb5bb76fdca7c5e809 d468e430d5c9b8d1c502ce6958296271dbc1428e LevDm <new email> 1711773564 +0500	rebase (pick): feat(backend): Подключение API Kandinsky
+d468e430d5c9b8d1c502ce6958296271dbc1428e 14e735b2d6e58a9b7a2a679f3edb6ef617b5afe6 LevDm <new email> 1711773564 +0500	rebase (pick): docs(backend): Обновлена документация для эндпоинта
+14e735b2d6e58a9b7a2a679f3edb6ef617b5afe6 59874840121dd772de9538a753a794ecb849ed06 LevDm <new email> 1711773564 +0500	rebase (pick): docs(project): правка README.md
+59874840121dd772de9538a753a794ecb849ed06 1088fa5fe7ed0f3ddfe7347bdaaa6b29141ee72a LevDm <new email> 1711773564 +0500	rebase (pick): fix(frontend): настройки ESlint
+1088fa5fe7ed0f3ddfe7347bdaaa6b29141ee72a e32eca1935d6c47ebc1624df08e7bd7c47a68881 LevDm <new email> 1711773564 +0500	rebase (pick): feat(frontend): стилизатор фона
+e32eca1935d6c47ebc1624df08e7bd7c47a68881 dba90ec7c14354dee606f13f6fc20c5350eed8fd LevDm <new email> 1711773564 +0500	rebase (pick): fix(frontend): настройки темы
+dba90ec7c14354dee606f13f6fc20c5350eed8fd 1c65e16ec5b56f398ae859d5d063c02ae3a55c3b LevDm <new email> 1711773564 +0500	rebase (pick): feat(frontend): Путь к странице конструктора
+1c65e16ec5b56f398ae859d5d063c02ae3a55c3b 4c12bd12ddcc1e00ef349ea24a23ed47be8c8886 LevDm <new email> 1711773564 +0500	rebase (pick): feat(frontend): Поддержка импорта svg файлов
+4c12bd12ddcc1e00ef349ea24a23ed47be8c8886 5c670ea84759917df8ad23a7575310f6b27c1822 LevDm <new email> 1711773564 +0500	rebase (pick): feat(frontend): Svg логотип
+5c670ea84759917df8ad23a7575310f6b27c1822 1c81e5874c52029627743c9e7b60a772d4d6b838 LevDm <new email> 1711773564 +0500	rebase (pick): feat(frontend): Header сайта
+1c81e5874c52029627743c9e7b60a772d4d6b838 221105efb26c2fe724012e38e29629047ff79b77 LevDm <new email> 1711773564 +0500	rebase (pick): fix(frontend): панель навигации
+221105efb26c2fe724012e38e29629047ff79b77 4d4cb4fd99d4c44517d3369810dfee0205d66596 LevDm <new email> 1711773564 +0500	rebase (pick): feat(frontend): кнопка для полноэкранного режима
+4d4cb4fd99d4c44517d3369810dfee0205d66596 27a014a8ad0e044c49ddacc342d3fa4255100636 LevDm <new email> 1711773564 +0500	rebase (pick): refactor(frontend): файлы компонента навигации
+27a014a8ad0e044c49ddacc342d3fa4255100636 87adf5bf8126391caa099ce38dda0e3fbc1b055e LevDm <new email> 1711773599 +0500	rebase (continue) (pick): feat(frontend): Svg логотип
+87adf5bf8126391caa099ce38dda0e3fbc1b055e 5290ea500b1d860b1f9890bdc226cf9a144b5ce0 LevDm <new email> 1711773706 +0500	rebase (continue): feat(frontend): Header сайта
+5290ea500b1d860b1f9890bdc226cf9a144b5ce0 92552cefc3d194ea15c223f71fe6c3cc11bce5e3 LevDm <new email> 1711773927 +0500	rebase (continue): fix(frontend): панель навигации
+92552cefc3d194ea15c223f71fe6c3cc11bce5e3 eeb56a5b053fc4fbe3f64b2d504372485237c93f LevDm <new email> 1711773969 +0500	rebase (continue): feat(frontend): кнопка для полноэкранного режима
+eeb56a5b053fc4fbe3f64b2d504372485237c93f 5e55e8486b0ed86b8e05305e148b4ae838d87154 LevDm <new email> 1711773969 +0500	rebase (continue) (pick): refactor(frontend): файлы компонента навигации
+5e55e8486b0ed86b8e05305e148b4ae838d87154 5e55e8486b0ed86b8e05305e148b4ae838d87154 LevDm <new email> 1711773969 +0500	rebase (continue) (finish): returning to refs/heads/dev
+5e55e8486b0ed86b8e05305e148b4ae838d87154 24878685dee72e1392df63d251f42f6408dd1b4d LevDm <new email> 1711774060 +0500	commit (merge): Merge branch 'dev' of https://bitbucket.org/comic-v/comic-v into dev
+24878685dee72e1392df63d251f42f6408dd1b4d 24878685dee72e1392df63d251f42f6408dd1b4d LevDm <new email> 1711774336 +0500	checkout: moving from dev to dev
+24878685dee72e1392df63d251f42f6408dd1b4d 60b351dc2c099b68180db9b292b24a05160f1c1b LevDm <new email> 1711774536 +0500	pull origin dev --rebase (start): checkout 60b351dc2c099b68180db9b292b24a05160f1c1b
+60b351dc2c099b68180db9b292b24a05160f1c1b 708008db9356ba10b77cbd838935553991b6537b LevDm <new email> 1711774672 +0500	rebase (continue): feat(backend): Развернута базовая структура
+708008db9356ba10b77cbd838935553991b6537b 24878685dee72e1392df63d251f42f6408dd1b4d LevDm <new email> 1711774778 +0500	rebase (abort): updating HEAD
+24878685dee72e1392df63d251f42f6408dd1b4d e5a25ceaa45fa007515639f596da831f54c78b53 LevDm <new email> 1711775932 +0500	checkout: moving from dev to CV-53
+e5a25ceaa45fa007515639f596da831f54c78b53 60b351dc2c099b68180db9b292b24a05160f1c1b LevDm <new email> 1711775972 +0500	checkout: moving from CV-53 to dev
+60b351dc2c099b68180db9b292b24a05160f1c1b e5a25ceaa45fa007515639f596da831f54c78b53 LevDm <new email> 1711775980 +0500	checkout: moving from dev to CV-53
+e5a25ceaa45fa007515639f596da831f54c78b53 e5a25ceaa45fa007515639f596da831f54c78b53 LevDm <new email> 1711776062 +0500	checkout: moving from CV-53 to CV-53
+e5a25ceaa45fa007515639f596da831f54c78b53 60b351dc2c099b68180db9b292b24a05160f1c1b LevDm <new email> 1711776117 +0500	pull origin dev --rebase (start): checkout 60b351dc2c099b68180db9b292b24a05160f1c1b
+60b351dc2c099b68180db9b292b24a05160f1c1b 42b02cfbf334527c76964dfda1040cd0f5f3f9b8 LevDm <new email> 1711776142 +0500	rebase (continue): feat(frontend): заготовка компонента предпросмотра
+42b02cfbf334527c76964dfda1040cd0f5f3f9b8 17a4c0971d17c5af8a3201cf13465435af301231 LevDm <new email> 1711776142 +0500	rebase (continue) (pick): feat(frontend): заготовка компонента просмотра комикса
+17a4c0971d17c5af8a3201cf13465435af301231 73c2d58a6b5c37c7275120400395bc208f04823d LevDm <new email> 1711776142 +0500	rebase (continue) (pick): refactor(frontend): отдельный файл для fakedata
+73c2d58a6b5c37c7275120400395bc208f04823d 3f491a3bdea14243bc2f8d9712e06987b5b24745 LevDm <new email> 1711776142 +0500	rebase (continue) (pick): refactor(frontend): использование компонента
+3f491a3bdea14243bc2f8d9712e06987b5b24745 3f491a3bdea14243bc2f8d9712e06987b5b24745 LevDm <new email> 1711776142 +0500	rebase (continue) (finish): returning to refs/heads/CV-53
+3f491a3bdea14243bc2f8d9712e06987b5b24745 a983566b257705368f73172fbd69539875208a56 LevDm <new email> 1711776177 +0500	commit (merge): Merge branch 'CV-53' of https://bitbucket.org/comic-v/comic-v into CV-53
+a983566b257705368f73172fbd69539875208a56 60b351dc2c099b68180db9b292b24a05160f1c1b LevDm <new email> 1711776273 +0500	checkout: moving from CV-53 to dev
+60b351dc2c099b68180db9b292b24a05160f1c1b 7726907c668cb326700158be8ac5763eadcb3a75 LevDm <new email> 1711776282 +0500	pull: Fast-forward
+7726907c668cb326700158be8ac5763eadcb3a75 0eaf487971a7e66cb5f5da4bbf9387a246dba04c LevDm <new email> 1711776359 +0500	checkout: moving from dev to CV-59
+0eaf487971a7e66cb5f5da4bbf9387a246dba04c 7726907c668cb326700158be8ac5763eadcb3a75 LevDm <new email> 1711776367 +0500	pull origin dev --rebase (start): checkout 7726907c668cb326700158be8ac5763eadcb3a75
+7726907c668cb326700158be8ac5763eadcb3a75 123f71b4be3042a52237d66adf955bc51dfc2fe4 LevDm <new email> 1711776391 +0500	rebase (continue): feat(frontend): заготовка компонента выбора фото
+123f71b4be3042a52237d66adf955bc51dfc2fe4 2d5e56c60744d839e0ec7cd6c9df95fa782d21fe LevDm <new email> 1711776391 +0500	rebase (continue) (pick): feat(frontend): fake-images для компонента
+2d5e56c60744d839e0ec7cd6c9df95fa782d21fe 5afa6d680df7b904732697f74f966b793cd2bca4 LevDm <new email> 1711776391 +0500	rebase (continue) (pick): refactor(frontend): разбивка элементов по файлы
+5afa6d680df7b904732697f74f966b793cd2bca4 99c1ef2ceb1f341ee05c4def17c3c68119c9bb5f LevDm <new email> 1711776391 +0500	rebase (continue) (pick): refactor(frontend): откл. компонента
+99c1ef2ceb1f341ee05c4def17c3c68119c9bb5f 99c1ef2ceb1f341ee05c4def17c3c68119c9bb5f LevDm <new email> 1711776391 +0500	rebase (continue) (finish): returning to refs/heads/CV-59
+99c1ef2ceb1f341ee05c4def17c3c68119c9bb5f 026a035fe1714956caf69df0fead5827fc1d1a4f LevDm <new email> 1711776562 +0500	commit (merge): Merge branch 'CV-59' of https://bitbucket.org/comic-v/comic-v into CV-59
+026a035fe1714956caf69df0fead5827fc1d1a4f 7726907c668cb326700158be8ac5763eadcb3a75 LevDm <new email> 1711776673 +0500	checkout: moving from CV-59 to dev
+7726907c668cb326700158be8ac5763eadcb3a75 70029e45d0b25802234078aaaaafb104d48d82b7 LevDm <new email> 1711776680 +0500	pull: Fast-forward
+70029e45d0b25802234078aaaaafb104d48d82b7 70029e45d0b25802234078aaaaafb104d48d82b7 LevDm <new email> 1711776776 +0500	checkout: moving from dev to refactor
+70029e45d0b25802234078aaaaafb104d48d82b7 589781acbaa22b31d5900722df3fe884cb77562f LevDm <new email> 1711993328 +0500	commit: refactor(frontent): детали обьединения веток
+589781acbaa22b31d5900722df3fe884cb77562f 857a756cb7a008ae824afa61691acb573369a5ca LevDm <new email> 1711993398 +0500	checkout: moving from refactor to CV-41
+857a756cb7a008ae824afa61691acb573369a5ca 70029e45d0b25802234078aaaaafb104d48d82b7 LevDm <new email> 1711993424 +0500	pull origin dev --rebase (start): checkout 70029e45d0b25802234078aaaaafb104d48d82b7
+70029e45d0b25802234078aaaaafb104d48d82b7 ae71fe540b4da54ce03966288c0099749608ff43 LevDm <new email> 1711993486 +0500	rebase (continue): feat(frontent): заготовка авторизации
+ae71fe540b4da54ce03966288c0099749608ff43 54dee791eb7d5e86b5e4131bc464fff02784e54c LevDm <new email> 1711993486 +0500	rebase (continue) (pick): refactor(frontend): типы в авторизации
+54dee791eb7d5e86b5e4131bc464fff02784e54c 6f90ed2648663e6af06aa5a6b225a956644a4696 LevDm <new email> 1711993487 +0500	rebase (continue) (pick): fix(frontend): удаление гугл-авторизации
+6f90ed2648663e6af06aa5a6b225a956644a4696 281bee9113b23eb01d63059179741e43cbbd6020 LevDm <new email> 1711993487 +0500	rebase (continue) (pick): feat(frontend): выход со стр. авторизации
+281bee9113b23eb01d63059179741e43cbbd6020 c8a72d9048d8dc81ea735d231232122ced5c4c1b LevDm <new email> 1711993487 +0500	rebase (continue) (pick): fix(frontent): выход со стр. авторизации
+c8a72d9048d8dc81ea735d231232122ced5c4c1b c8a72d9048d8dc81ea735d231232122ced5c4c1b LevDm <new email> 1711993487 +0500	rebase (continue) (finish): returning to refs/heads/CV-41
+c8a72d9048d8dc81ea735d231232122ced5c4c1b d9b0cd2a9746f9fb0bbc80351e81fd67ee9c02ab LevDm <new email> 1711993513 +0500	commit (merge): Merge branch 'CV-41' of https://bitbucket.org/comic-v/comic-v into CV-41
+d9b0cd2a9746f9fb0bbc80351e81fd67ee9c02ab 0000000000000000000000000000000000000000 LevDm <new email> 1711993580 +0500	Branch: renamed refs/heads/CV-41 to refs/heads/CV-41(v0)
+0000000000000000000000000000000000000000 d9b0cd2a9746f9fb0bbc80351e81fd67ee9c02ab LevDm <new email> 1711993580 +0500	Branch: renamed refs/heads/CV-41 to refs/heads/CV-41(v0)
+d9b0cd2a9746f9fb0bbc80351e81fd67ee9c02ab 70029e45d0b25802234078aaaaafb104d48d82b7 LevDm <new email> 1711993600 +0500	checkout: moving from CV-41(v0) to dev
+70029e45d0b25802234078aaaaafb104d48d82b7 16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0 LevDm <new email> 1711993748 +0500	pull: Fast-forward
+16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0 589781acbaa22b31d5900722df3fe884cb77562f LevDm <new email> 1711993757 +0500	checkout: moving from dev to refactor
+589781acbaa22b31d5900722df3fe884cb77562f 16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0 LevDm <new email> 1711993768 +0500	pull origin dev --rebase (start): checkout 16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0
+16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0 1335152d51f9d497932223019d647bc69cb1dea6 LevDm <new email> 1711993906 +0500	rebase (continue): refactor(frontent): детали обьединения веток
+1335152d51f9d497932223019d647bc69cb1dea6 1335152d51f9d497932223019d647bc69cb1dea6 LevDm <new email> 1711993906 +0500	rebase (continue) (finish): returning to refs/heads/refactor
+1335152d51f9d497932223019d647bc69cb1dea6 8af87cd2875c4e59d96daa913669684c25590950 LevDm <new email> 1711993936 +0500	commit (merge): Merge branch 'refactor' of https://bitbucket.org/comic-v/comic-v into refactor
+8af87cd2875c4e59d96daa913669684c25590950 0c4a0f4b05f09e5a7b7d54a23f8d365758c8020a LevDm <new email> 1711999290 +0500	commit: fix(frontend): объединение комопнентов
+0c4a0f4b05f09e5a7b7d54a23f8d365758c8020a 16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0 LevDm <new email> 1711999423 +0500	checkout: moving from refactor to dev
+16a986d9d89b4f1eb431efff9c9a08f9a9ada2a0 817e846d55cfc72558e20e58f9e722b3d2f6eb92 LevDm <new email> 1711999437 +0500	pull: Fast-forward
+817e846d55cfc72558e20e58f9e722b3d2f6eb92 f0ccd3abd786858c64ad80cee1ba3a554a19cd47 LevDm <new email> 1712000960 +0500	commit: fix(frontend): верстка элементов
+f0ccd3abd786858c64ad80cee1ba3a554a19cd47 0c4a0f4b05f09e5a7b7d54a23f8d365758c8020a LevDm <new email> 1712001013 +0500	checkout: moving from dev to refactor
+0c4a0f4b05f09e5a7b7d54a23f8d365758c8020a d1f78c1e765af7b91fa608e689c12d5a4d0a23fa LevDm <new email> 1712001021 +0500	cherry-pick: fix(frontend): верстка элементов
+d1f78c1e765af7b91fa608e689c12d5a4d0a23fa f0ccd3abd786858c64ad80cee1ba3a554a19cd47 LevDm <new email> 1712001174 +0500	checkout: moving from refactor to dev
+f0ccd3abd786858c64ad80cee1ba3a554a19cd47 817e846d55cfc72558e20e58f9e722b3d2f6eb92 LevDm <new email> 1712001191 +0500	rebase (start): checkout f0ccd3abd786858c64ad80cee1ba3a554a19cd47^
+817e846d55cfc72558e20e58f9e722b3d2f6eb92 817e846d55cfc72558e20e58f9e722b3d2f6eb92 LevDm <new email> 1712001191 +0500	rebase (finish): returning to refs/heads/dev
+817e846d55cfc72558e20e58f9e722b3d2f6eb92 48ceedad6fff30bc3543f0b76c3cbc0e932cc39e LevDm <new email> 1712001233 +0500	merge refactor: Merge made by the 'ort' strategy.
+48ceedad6fff30bc3543f0b76c3cbc0e932cc39e c8b0a9bc01046615f0886170404477d4395217da LevDm <new email> 1712001321 +0500	pull: Merge made by the 'ort' strategy.
+c8b0a9bc01046615f0886170404477d4395217da c8b0a9bc01046615f0886170404477d4395217da LevDm <new email> 1712001456 +0500	checkout: moving from dev to dev
+c8b0a9bc01046615f0886170404477d4395217da d1f78c1e765af7b91fa608e689c12d5a4d0a23fa LevDm <new email> 1712001547 +0500	checkout: moving from dev to refactor
+d1f78c1e765af7b91fa608e689c12d5a4d0a23fa 4b700b00191358f7f789832d6e0e22dadd90288b LevDm <new email> 1712001565 +0500	checkout: moving from refactor to dev
+4b700b00191358f7f789832d6e0e22dadd90288b 4b700b00191358f7f789832d6e0e22dadd90288b LevDm <new email> 1712084468 +0500	checkout: moving from dev to feat
+4b700b00191358f7f789832d6e0e22dadd90288b 068d0485bdbe5467093bc1551efa574cdc2d7340 LevDm <new email> 1712268308 +0500	commit: feat(frontent): группировка компонентов и разметка страницы проектов
+068d0485bdbe5467093bc1551efa574cdc2d7340 26fe33fa6e1e9056dfbf733076867507a68b60c1 LevDm <new email> 1713476340 +0500	commit: feat(frontend): наброски всех основных элементов
+26fe33fa6e1e9056dfbf733076867507a68b60c1 0000000000000000000000000000000000000000 LevDm <new email> 1713476365 +0500	Branch: renamed refs/heads/feat to refs/heads/CV-feat
+0000000000000000000000000000000000000000 26fe33fa6e1e9056dfbf733076867507a68b60c1 LevDm <new email> 1713476365 +0500	Branch: renamed refs/heads/feat to refs/heads/CV-feat
+26fe33fa6e1e9056dfbf733076867507a68b60c1 89d89a85090130d0b0a6aa54dcd09675f866dcf8 LevDm <new email> 1713815109 +0500	commit: feat(frontend): дизайн логотипа
+89d89a85090130d0b0a6aa54dcd09675f866dcf8 f43792c16f84e5c8582024bb54ee9edbd9b59a91 LevDm <new email> 1714684450 +0500	commit: feat(frontend): контроллер
+f43792c16f84e5c8582024bb54ee9edbd9b59a91 4b700b00191358f7f789832d6e0e22dadd90288b LevDm <new email> 1714684503 +0500	checkout: moving from CV-feat to dev
+4b700b00191358f7f789832d6e0e22dadd90288b c54fea263ff2c254572e17738de1cb6ba314c951 LevDm <new email> 1714684521 +0500	pull: Fast-forward
+c54fea263ff2c254572e17738de1cb6ba314c951 774707712de553940815b94157e5af12405f8493 LevDm <new email> 1714685067 +0500	pull: Fast-forward
+774707712de553940815b94157e5af12405f8493 07419575689148b8d1372a762f3094a55305da29 LevDm <new email> 1714685106 +0500	checkout: moving from dev to CV-24
+07419575689148b8d1372a762f3094a55305da29 f43792c16f84e5c8582024bb54ee9edbd9b59a91 LevDm <new email> 1714685111 +0500	checkout: moving from CV-24 to CV-feat
+f43792c16f84e5c8582024bb54ee9edbd9b59a91 774707712de553940815b94157e5af12405f8493 LevDm <new email> 1714685299 +0500	pull origin dev --rebase (start): checkout 774707712de553940815b94157e5af12405f8493
+774707712de553940815b94157e5af12405f8493 491bf2f21c43272563daaa9c6d92480e03108976 LevDm <new email> 1714685299 +0500	pull origin dev --rebase (pick): feat(frontent): группировка компонентов и разметка страницы проектов
+491bf2f21c43272563daaa9c6d92480e03108976 2042eec854e382ea519ce99e55d936fbec12400d LevDm <new email> 1714685300 +0500	pull origin dev --rebase (pick): feat(frontend): наброски всех основных элементов
+2042eec854e382ea519ce99e55d936fbec12400d a24988ab87acfc8233415e602fb82700b18a1d36 LevDm <new email> 1714685300 +0500	pull origin dev --rebase (pick): feat(frontend): дизайн логотипа
+a24988ab87acfc8233415e602fb82700b18a1d36 26345d8ac1748db55fe14211323ef71de7c60197 LevDm <new email> 1714685300 +0500	pull origin dev --rebase (pick): feat(frontend): контроллер
+26345d8ac1748db55fe14211323ef71de7c60197 26345d8ac1748db55fe14211323ef71de7c60197 LevDm <new email> 1714685300 +0500	pull origin dev --rebase (finish): returning to refs/heads/CV-feat
+26345d8ac1748db55fe14211323ef71de7c60197 ff629f6b92b61b8ee3a1fa4c4ea133e10a06fa8e LevDm <new email> 1714685634 +0500	pull --tags origin CV-feat: Merge made by the 'ort' strategy.
+ff629f6b92b61b8ee3a1fa4c4ea133e10a06fa8e 774707712de553940815b94157e5af12405f8493 LevDm <new email> 1714685691 +0500	checkout: moving from CV-feat to dev
+774707712de553940815b94157e5af12405f8493 ff629f6b92b61b8ee3a1fa4c4ea133e10a06fa8e LevDm <new email> 1714685715 +0500	checkout: moving from dev to CV-feat
+ff629f6b92b61b8ee3a1fa4c4ea133e10a06fa8e 636e360788f58f63fa7ed79695cb433b7437d27f LevDm <new email> 1714687466 +0500	commit: _(backend): закоментил строчки
+636e360788f58f63fa7ed79695cb433b7437d27f 671f45153465c7334bd778f06b8c486bf51cb2dd LevDm <new email> 1714691760 +0500	commit: feat(frontend): запросы тема-тезисы и текс-картинка
+671f45153465c7334bd778f06b8c486bf51cb2dd 630c4d8a4fedc2d8fca1c937efc3ece7506f8942 LevDm <new email> 1715552366 +0500	commit: feat(frontend): детальная логика контроллеров
+630c4d8a4fedc2d8fca1c937efc3ece7506f8942 774707712de553940815b94157e5af12405f8493 LevDm <new email> 1715552496 +0500	checkout: moving from CV-feat to dev
+774707712de553940815b94157e5af12405f8493 7cc287fbae1ce26a2854b80aac35a57dd62c27d3 LevDm <new email> 1715552512 +0500	pull: Fast-forward
+7cc287fbae1ce26a2854b80aac35a57dd62c27d3 7b7f256ccaf55fcac74b087f5df9834be4ce0c6c LevDm <new email> 1715622485 +0500	pull: Fast-forward
+7b7f256ccaf55fcac74b087f5df9834be4ce0c6c 7b7f256ccaf55fcac74b087f5df9834be4ce0c6c LevDm <new email> 1715622813 +0500	checkout: moving from dev to CV-00
+7b7f256ccaf55fcac74b087f5df9834be4ce0c6c 402bb680830f14ad1d9573cf7e289829a91ca821 LevDm <new email> 1715630119 +0500	commit: feat(frontend): водяной знак, дизайн-детали
+402bb680830f14ad1d9573cf7e289829a91ca821 5483f835ee4b74801c4af7fabfcf07966269882c LevDm <new email> 1715631941 +0500	commit: feat(frontend): визуальное соответсвие формата
+5483f835ee4b74801c4af7fabfcf07966269882c 8916ec48ed635f856ca73d2b005367b6f04a0e88 LevDm <new email> 1715634544 +0500	commit: fix(frontend): лого
+8916ec48ed635f856ca73d2b005367b6f04a0e88 a1b618deb8ff88e43d282d398d261c7a418104d8 LevDm <new email> 1715634667 +0500	commit: fix(frontend): не черный фон
+a1b618deb8ff88e43d282d398d261c7a418104d8 7b7f256ccaf55fcac74b087f5df9834be4ce0c6c LevDm <new email> 1715879602 +0500	checkout: moving from CV-00 to dev
+7b7f256ccaf55fcac74b087f5df9834be4ce0c6c 6613d4541b0863e99a2a670b7ab4603005df14cf LevDm <new email> 1715879625 +0500	pull: Fast-forward
+6613d4541b0863e99a2a670b7ab4603005df14cf 626ce98d94c8b1e033edbb88d5355d958f805fb9 LevDm <new email> 1715879976 +0500	revert: Revert "Merged in CV-73 (pull request #26)"
+626ce98d94c8b1e033edbb88d5355d958f805fb9 a5070cefda4e5cb189aeea32bfcef572dfdb92b0 LevDm <new email> 1715880325 +0500	commit: fix(backend): форматирование строк
+a5070cefda4e5cb189aeea32bfcef572dfdb92b0 a60abf666243c20d865901ad189cd462579990a6 LevDm <new email> 1715880367 +0500	checkout: moving from dev to CV-73
+a60abf666243c20d865901ad189cd462579990a6 0c44b2e68648ed360d2c9241efce0bb0f09c23a5 LevDm <new email> 1715880497 +0500	commit: upd
+0c44b2e68648ed360d2c9241efce0bb0f09c23a5 0c44b2e68648ed360d2c9241efce0bb0f09c23a5 LevDm <new email> 1715880776 +0500	reset: moving to 0c44b2e68648ed360d2c9241efce0bb0f09c23a5
+0c44b2e68648ed360d2c9241efce0bb0f09c23a5 a5070cefda4e5cb189aeea32bfcef572dfdb92b0 LevDm <new email> 1715880803 +0500	checkout: moving from CV-73 to dev
+a5070cefda4e5cb189aeea32bfcef572dfdb92b0 0c44b2e68648ed360d2c9241efce0bb0f09c23a5 LevDm <new email> 1715880928 +0500	reset: moving to 0c44b2e68648ed360d2c9241efce0bb0f09c23a5
+0c44b2e68648ed360d2c9241efce0bb0f09c23a5 0c44b2e68648ed360d2c9241efce0bb0f09c23a5 LevDm <new email> 1715880961 +0500	checkout: moving from dev to CV-73
+0c44b2e68648ed360d2c9241efce0bb0f09c23a5 99ee9e34e658e9ef9b39be1383af11ac599b56fd LevDm <new email> 1715881051 +0500	commit: 1
+99ee9e34e658e9ef9b39be1383af11ac599b56fd 99ee9e34e658e9ef9b39be1383af11ac599b56fd LevDm <new email> 1715881063 +0500	checkout: moving from CV-73 to CV-73
+99ee9e34e658e9ef9b39be1383af11ac599b56fd bdb7676b7c848de303074ee61b107dfda1a04ab0 LevDm <new email> 1715881158 +0500	commit (merge): Merge branch 'CV-73' of https://bitbucket.org/comic-v/comic-v into CV-73
+bdb7676b7c848de303074ee61b107dfda1a04ab0 18a65319c3af93cd96efe8f752e36bcbbac9de0c LevDm <new email> 1715881232 +0500	reset: moving to 18a65319c3af93cd96efe8f752e36bcbbac9de0c
+18a65319c3af93cd96efe8f752e36bcbbac9de0c 18a65319c3af93cd96efe8f752e36bcbbac9de0c LevDm <new email> 1715881375 +0500	reset: moving to HEAD
+18a65319c3af93cd96efe8f752e36bcbbac9de0c 18a65319c3af93cd96efe8f752e36bcbbac9de0c LevDm <new email> 1715881395 +0500	reset: moving to HEAD
+18a65319c3af93cd96efe8f752e36bcbbac9de0c 18a65319c3af93cd96efe8f752e36bcbbac9de0c LevDm <new email> 1715881429 +0500	reset: moving to HEAD
+18a65319c3af93cd96efe8f752e36bcbbac9de0c 0c44b2e68648ed360d2c9241efce0bb0f09c23a5 LevDm <new email> 1715881469 +0500	checkout: moving from CV-73 to dev
+0c44b2e68648ed360d2c9241efce0bb0f09c23a5 a60abf666243c20d865901ad189cd462579990a6 LevDm <new email> 1715881498 +0500	reset: moving to a60abf666243c20d865901ad189cd462579990a6
+a60abf666243c20d865901ad189cd462579990a6 a60abf666243c20d865901ad189cd462579990a6 LevDm <new email> 1715881521 +0500	reset: moving to HEAD
+a60abf666243c20d865901ad189cd462579990a6 18a65319c3af93cd96efe8f752e36bcbbac9de0c LevDm <new email> 1715881723 +0500	checkout: moving from dev to CV-73
+18a65319c3af93cd96efe8f752e36bcbbac9de0c f5b30e75f79f642a07d4749b55acc9d95413f760 LevDm <new email> 1715881815 +0500	checkout: moving from CV-73 to 0
+f5b30e75f79f642a07d4749b55acc9d95413f760 ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1715881853 +0500	pull: Fast-forward
+ad11de652c46b29ec18d04fb3409cf0f5047a48e 1b0e2bd9d672c8b476acabff2273a4a326b50c1e LevDm <new email> 1715882083 +0500	commit: fix(backend): форматирование строк
+1b0e2bd9d672c8b476acabff2273a4a326b50c1e 0000000000000000000000000000000000000000 LevDm <new email> 1715882139 +0500	Branch: renamed refs/heads/0 to refs/heads/CV-000
+0000000000000000000000000000000000000000 1b0e2bd9d672c8b476acabff2273a4a326b50c1e LevDm <new email> 1715882139 +0500	Branch: renamed refs/heads/0 to refs/heads/CV-000
+1b0e2bd9d672c8b476acabff2273a4a326b50c1e a60abf666243c20d865901ad189cd462579990a6 LevDm <new email> 1715882432 +0500	checkout: moving from CV-000 to dev
+a60abf666243c20d865901ad189cd462579990a6 ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1715882442 +0500	pull: Fast-forward
+ad11de652c46b29ec18d04fb3409cf0f5047a48e ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1715882555 +0500	checkout: moving from dev to CV-00.2
+ad11de652c46b29ec18d04fb3409cf0f5047a48e 1b0e2bd9d672c8b476acabff2273a4a326b50c1e LevDm <new email> 1715882573 +0500	checkout: moving from CV-00.2 to CV-000
+1b0e2bd9d672c8b476acabff2273a4a326b50c1e ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1715882612 +0500	rebase (start): checkout 1b0e2bd9d672c8b476acabff2273a4a326b50c1e^
+ad11de652c46b29ec18d04fb3409cf0f5047a48e ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1715882612 +0500	rebase (finish): returning to refs/heads/CV-000
+ad11de652c46b29ec18d04fb3409cf0f5047a48e ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1715882627 +0500	checkout: moving from CV-000 to CV-00.2
+ad11de652c46b29ec18d04fb3409cf0f5047a48e 51962145a8583d6bf75f2cd02bdb82665d7592ee LevDm <new email> 1715882838 +0500	commit: fix(backend): формат строк и размер изображения
+51962145a8583d6bf75f2cd02bdb82665d7592ee 84a94e848080679c955c972f9926c36337e4ab0d LevDm <new email> 1715886902 +0500	commit: fix(frontend): отображение элементов интерфейса
+84a94e848080679c955c972f9926c36337e4ab0d c88e524f3b0b94fd7489a96ea0a0cc2598c7fe59 LevDm <new email> 1715888270 +0500	commit: feat(frontend): фильтрация вводимого текста
+c88e524f3b0b94fd7489a96ea0a0cc2598c7fe59 b4597dcc177bcefef4a549762c5d288a0241027e LevDm <new email> 1715894951 +0500	commit: feat(frontend): отображение локального проекта
+b4597dcc177bcefef4a549762c5d288a0241027e bddfa6161e6b53779c0fab8b2d980d42cfd8cd1e LevDm <new email> 1715896556 +0500	commit: fix(frontent): обрезка текста в полях авторизации
+bddfa6161e6b53779c0fab8b2d980d42cfd8cd1e ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1716118499 +0500	checkout: moving from CV-00.2 to dev
+ad11de652c46b29ec18d04fb3409cf0f5047a48e bddfa6161e6b53779c0fab8b2d980d42cfd8cd1e LevDm <new email> 1716119493 +0500	checkout: moving from dev to CV-00.2
+bddfa6161e6b53779c0fab8b2d980d42cfd8cd1e 27a7e0cc28bf83849206cb5bf5def6f68334d404 LevDm <new email> 1716409216 +0500	commit: feat(frontend): контролеры страницы проекты
+27a7e0cc28bf83849206cb5bf5def6f68334d404 ad11de652c46b29ec18d04fb3409cf0f5047a48e LevDm <new email> 1716409262 +0500	checkout: moving from CV-00.2 to dev
+ad11de652c46b29ec18d04fb3409cf0f5047a48e 1bc82251128b0f3642829c60f8c4a33829204701 LevDm <new email> 1716409278 +0500	pull: Fast-forward
+1bc82251128b0f3642829c60f8c4a33829204701 27a7e0cc28bf83849206cb5bf5def6f68334d404 LevDm <new email> 1716409383 +0500	checkout: moving from dev to CV-00.2
+27a7e0cc28bf83849206cb5bf5def6f68334d404 199aac4377e5c4c5f6e64365d6047e0bf552ded8 LevDm <new email> 1716409466 +0500	commit: fix(frontend) gitignore env
+199aac4377e5c4c5f6e64365d6047e0bf552ded8 fad100b6329da2f4891d0a65879df81bddaafdd2 LevDm <new email> 1716409622 +0500	commit: feat(frontend): netlify
+fad100b6329da2f4891d0a65879df81bddaafdd2 80a1560ac36cb4dcf71c53759c202ff146558963 LevDm <new email> 1716410053 +0500	commit: feractor(frontend): комментарий
+80a1560ac36cb4dcf71c53759c202ff146558963 f0668779beac9d04d5e63a6736e5515294266953 LevDm <new email> 1716414455 +0500	commit: fix(frontend): build-deploy errors
+f0668779beac9d04d5e63a6736e5515294266953 8807c3651375882cf040a92e6cd7653014b553f4 LevDm <new email> 1716414751 +0500	commit: test-deploy(frontend)
+8807c3651375882cf040a92e6cd7653014b553f4 fbba1793c8deba65e3123f3cf763590be9e9477e LevDm <new email> 1716499678 +0500	commit: fix(frontend): запросы и визуально-функциональные элементы
+fbba1793c8deba65e3123f3cf763590be9e9477e 1bc82251128b0f3642829c60f8c4a33829204701 LevDm <new email> 1716499819 +0500	checkout: moving from CV-00.2 to dev
+1bc82251128b0f3642829c60f8c4a33829204701 d979c4dfd474bc364d8da72ce3a6e1b1afffbb16 LevDm <new email> 1716499836 +0500	pull: Fast-forward
+d979c4dfd474bc364d8da72ce3a6e1b1afffbb16 fbba1793c8deba65e3123f3cf763590be9e9477e LevDm <new email> 1716499845 +0500	checkout: moving from dev to CV-00.2
+fbba1793c8deba65e3123f3cf763590be9e9477e d979c4dfd474bc364d8da72ce3a6e1b1afffbb16 LevDm <new email> 1716499878 +0500	pull origin dev --rebase (start): checkout d979c4dfd474bc364d8da72ce3a6e1b1afffbb16
+d979c4dfd474bc364d8da72ce3a6e1b1afffbb16 a9f2fd8e4b4529429452fa922ad2313c5aee1d61 LevDm <new email> 1716499878 +0500	pull origin dev --rebase (pick): feat(frontend): контролеры страницы проекты
+a9f2fd8e4b4529429452fa922ad2313c5aee1d61 646ee14018fa06422e5c07d46c0631d1ee272491 LevDm <new email> 1716499878 +0500	pull origin dev --rebase (pick): fix(frontend) gitignore env
+646ee14018fa06422e5c07d46c0631d1ee272491 5cb3a7fd1a0b1972b6e0865f10b175bf287dea7f LevDm <new email> 1716499878 +0500	pull origin dev --rebase (pick): feat(frontend): netlify
+5cb3a7fd1a0b1972b6e0865f10b175bf287dea7f ab7e987e6f3477005b54e5022588484c32d12507 LevDm <new email> 1716499878 +0500	pull origin dev --rebase (pick): feractor(frontend): комментарий
+ab7e987e6f3477005b54e5022588484c32d12507 976c0c73c20c178755d1277931a3b59fc7b36fc3 LevDm <new email> 1716499878 +0500	pull origin dev --rebase (pick): fix(frontend): build-deploy errors
+976c0c73c20c178755d1277931a3b59fc7b36fc3 ad70ec51f610cbb2d4b203bd74b152c5b89f2071 LevDm <new email> 1716499878 +0500	pull origin dev --rebase (pick): test-deploy(frontend)
+ad70ec51f610cbb2d4b203bd74b152c5b89f2071 f1bf9cb61df1687edcc15145f7e15440725cf0bf LevDm <new email> 1716499878 +0500	pull origin dev --rebase (pick): fix(frontend): запросы и визуально-функциональные элементы
+f1bf9cb61df1687edcc15145f7e15440725cf0bf f1bf9cb61df1687edcc15145f7e15440725cf0bf LevDm <new email> 1716499878 +0500	pull origin dev --rebase (finish): returning to refs/heads/CV-00.2
+f1bf9cb61df1687edcc15145f7e15440725cf0bf d979c4dfd474bc364d8da72ce3a6e1b1afffbb16 LevDm <new email> 1716500034 +0500	checkout: moving from CV-00.2 to dev
+d979c4dfd474bc364d8da72ce3a6e1b1afffbb16 f69fb8984487ac193119c750cdfe8e6b9d3731fb LevDm <new email> 1716500044 +0500	pull: Fast-forward
+f69fb8984487ac193119c750cdfe8e6b9d3731fb f69fb8984487ac193119c750cdfe8e6b9d3731fb LevDm <new email> 1716532868 +0500	checkout: moving from dev to CV-00.3
+f69fb8984487ac193119c750cdfe8e6b9d3731fb cf0731d8d0d4ee63b52c07b0eab5ec14ca82d9ea LevDm <new email> 1716714678 +0500	commit: feat(frontend): сообщения об ошибках, отладка эндпоинтов и переходов
+cf0731d8d0d4ee63b52c07b0eab5ec14ca82d9ea f69fb8984487ac193119c750cdfe8e6b9d3731fb LevDm <new email> 1716714875 +0500	checkout: moving from CV-00.3 to dev
+f69fb8984487ac193119c750cdfe8e6b9d3731fb e094a9a1bfae20e29a8bc9ca5156d5b60f0c40a5 LevDm <new email> 1716714893 +0500	pull: Fast-forward
+e094a9a1bfae20e29a8bc9ca5156d5b60f0c40a5 99f5cf14aa5b261b41c84b2259be944f2335eac5 LevDm <new email> 1716714953 +0500	checkout: moving from dev to CV-80
+99f5cf14aa5b261b41c84b2259be944f2335eac5 e094a9a1bfae20e29a8bc9ca5156d5b60f0c40a5 LevDm <new email> 1716715012 +0500	pull origin dev --rebase (start): checkout e094a9a1bfae20e29a8bc9ca5156d5b60f0c40a5
+e094a9a1bfae20e29a8bc9ca5156d5b60f0c40a5 c6e71638969e1139df793267a14f4de4ab42914c LevDm <new email> 1716715080 +0500	rebase (continue): FIX download_comic
+c6e71638969e1139df793267a14f4de4ab42914c c6e71638969e1139df793267a14f4de4ab42914c LevDm <new email> 1716715080 +0500	rebase (continue) (finish): returning to refs/heads/CV-80
+c6e71638969e1139df793267a14f4de4ab42914c e094a9a1bfae20e29a8bc9ca5156d5b60f0c40a5 LevDm <new email> 1716715227 +0500	checkout: moving from CV-80 to dev
+e094a9a1bfae20e29a8bc9ca5156d5b60f0c40a5 2a27baa3574204b30799163cd3f81850975390fe LevDm <new email> 1716715234 +0500	pull: Fast-forward
+2a27baa3574204b30799163cd3f81850975390fe 2a27baa3574204b30799163cd3f81850975390fe LevDm <new email> 1716715250 +0500	checkout: moving from dev to CV-00.4
+2a27baa3574204b30799163cd3f81850975390fe 2f1a8224ccffbad9e8efc7896c982e37401bfc85 LevDm <new email> 1716716511 +0500	commit: fix(frontend): тип скачиваемого файла, время доступа
+2f1a8224ccffbad9e8efc7896c982e37401bfc85 d33893d0fef89ec10fe75dc3a10022e172de89bd LevDm <new email> 1716716664 +0500	commit: refactor(frontend): console.log
+d33893d0fef89ec10fe75dc3a10022e172de89bd 2a27baa3574204b30799163cd3f81850975390fe LevDm <new email> 1716717353 +0500	checkout: moving from CV-00.4 to dev
+2a27baa3574204b30799163cd3f81850975390fe e63bd0ee9735d282ba1ed07cbfbc6222a5b1d2b4 LevDm <new email> 1716717365 +0500	pull: Fast-forward
+e63bd0ee9735d282ba1ed07cbfbc6222a5b1d2b4 e63bd0ee9735d282ba1ed07cbfbc6222a5b1d2b4 LevDm <new email> 1716723043 +0500	checkout: moving from dev to CV-00.5
+e63bd0ee9735d282ba1ed07cbfbc6222a5b1d2b4 7ad5f762bb3e60a22f20a72613aaaee0824f58fb LevDm <new email> 1716724222 +0500	commit: fix(frontend): текст и формат
+7ad5f762bb3e60a22f20a72613aaaee0824f58fb f0f442d4f5a89aabb5a068d56d686fdf522f713e LevDm <new email> 1716725655 +0500	commit: feat(frontend): новые форматы
+f0f442d4f5a89aabb5a068d56d686fdf522f713e 44ace147383474af4d08a6e5596d1408eaef58f9 LevDm <new email> 1716728672 +0500	commit: feat(frontend): стили изображения
+44ace147383474af4d08a6e5596d1408eaef58f9 e63bd0ee9735d282ba1ed07cbfbc6222a5b1d2b4 LevDm <new email> 1716824420 +0500	checkout: moving from CV-00.5 to dev
+e63bd0ee9735d282ba1ed07cbfbc6222a5b1d2b4 4a359c572ad579e2b80d001d414ebae91b6f452c LevDm <new email> 1716824434 +0500	pull: Fast-forward
+4a359c572ad579e2b80d001d414ebae91b6f452c 4a359c572ad579e2b80d001d414ebae91b6f452c LevDm <new email> 1716824440 +0500	checkout: moving from dev to CV-00.6
+4a359c572ad579e2b80d001d414ebae91b6f452c 7ba7324c79695fa8523615628dc2ec5082741ac3 LevDm <new email> 1717017324 +0500	commit: fix(frontend): критический функционал
+7ba7324c79695fa8523615628dc2ec5082741ac3 4a359c572ad579e2b80d001d414ebae91b6f452c LevDm <new email> 1717075849 +0500	checkout: moving from CV-00.6 to dev
+4a359c572ad579e2b80d001d414ebae91b6f452c 87170e0ed7629694284c2bd876bcdd7991355704 LevDm <new email> 1717075866 +0500	pull: Fast-forward
+87170e0ed7629694284c2bd876bcdd7991355704 87170e0ed7629694284c2bd876bcdd7991355704 LevDm <new email> 1717093030 +0500	checkout: moving from dev to CV-00.7
+87170e0ed7629694284c2bd876bcdd7991355704 d4cb097f2490c887ed0578f7e80ca83251cc7787 LevDm <new email> 1717106524 +0500	commit: feat(frontend): функции контролера деталей картинки

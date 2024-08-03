@@ -1,0 +1,33 @@
+version: "3.8"
+services:
+  db:
+    hostname: postgres
+    image: postgres:14.1-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    expose:
+      - "5432"
+    ports:
+      - "5432:5432"
+    networks:
+      - ps
+
+  microservice:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    command: gunicorn --workers=5 -b 0.0.0.0:8000 -k uvicorn.workers.UvicornWorker src.api:app --timeout 600
+    networks:
+      - ps
+
+volumes:
+  db:
+    driver: local
+
+networks:
+  ps:
